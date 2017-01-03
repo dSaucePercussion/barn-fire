@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	width: 1000px;
+	/*height: 1000px;*/
+}
+p {
+   text-align: left;
+   color: green;
+   max-width: 300px;
+
+}
+
+.blogpost {
+   max-width: 500px;
+   border: 1px solid black;
+   margin: 10px;
+}
+
+name {
+   	font: bold 16px/30px Georgia, serif;
+}
+
+img {
+   width:75px;
+   height:75px;	
+}
+
+date {
+   background-color: red;	
+}
+
+footer {
+   bottom: 0px;
+}
